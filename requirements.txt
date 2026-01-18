@@ -1,0 +1,26 @@
+# LangGraph & LangChain
+langgraph>=0.0.20
+langchain>=0.1.0
+langchain-google-genai>=1.0.0
+
+# Data sources
+yfinance>=0.2.36
+newsapi-python>=0.2.7
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+requests>=2.31.0
+
+# ML/NLP (for sentiment analysis)
+transformers>=4.36.0
+torch>=2.1.0
+sentencepiece>=0.1.99
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# API/Backend (for deployment later)
+fastapi>=0.104.0
+uvicorn>=0.24.0
